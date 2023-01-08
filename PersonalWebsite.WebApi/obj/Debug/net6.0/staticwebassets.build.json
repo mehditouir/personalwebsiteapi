@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xE2AMT75uz7KfIRxsYlTdzl/wzPHaGXl7ItwmAg1CyI=",
+  "Source": "PersonalWebsite.WebApi",
+  "BasePath": "_content/PersonalWebsite.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

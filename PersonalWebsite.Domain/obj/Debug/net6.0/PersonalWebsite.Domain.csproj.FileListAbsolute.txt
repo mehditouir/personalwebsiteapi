@@ -1,0 +1,12 @@
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\PersonalWebsite.Domain.csproj.AssemblyReference.cache
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\PersonalWebsite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\PersonalWebsite.Domain.AssemblyInfoInputs.cache
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\PersonalWebsite.Domain.AssemblyInfo.cs
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\PersonalWebsite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\bin\Debug\net6.0\PersonalWebsite.Domain.deps.json
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\bin\Debug\net6.0\PersonalWebsite.Domain.dll
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\bin\Debug\net6.0\PersonalWebsite.Domain.pdb
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\PersonalWebsite.Domain.dll
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\refint\PersonalWebsite.Domain.dll
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\PersonalWebsite.Domain.pdb
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Domain\obj\Debug\net6.0\ref\PersonalWebsite.Domain.dll

@@ -1,0 +1,12 @@
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\bin\Debug\net6.0\PersonalWebsite.Core.deps.json
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\bin\Debug\net6.0\PersonalWebsite.Core.dll
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\bin\Debug\net6.0\PersonalWebsite.Core.pdb
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\PersonalWebsite.Core.csproj.AssemblyReference.cache
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\PersonalWebsite.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\PersonalWebsite.Core.AssemblyInfoInputs.cache
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\PersonalWebsite.Core.AssemblyInfo.cs
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\PersonalWebsite.Core.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\PersonalWebsite.Core.dll
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\refint\PersonalWebsite.Core.dll
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\PersonalWebsite.Core.pdb
+C:\Users\mehdi\Desktop\Programming\PersonalWebsite\Repos\API\master\PersonalWebsite.Core\obj\Debug\net6.0\ref\PersonalWebsite.Core.dll
